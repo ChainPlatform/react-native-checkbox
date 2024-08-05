@@ -1,0 +1,30 @@
+{
+    "name": "@chainplatform/checkbox",
+    "version": "0.1.0",
+    "description": "@chainplatform/checkbox is a React Native library that provides a Checkbox component for react-native and react-native-web.",
+    "main": "index.js",
+    "devDependencies": {
+        "react": "*",
+        "react-native": "*"
+    },
+    "author": "Chain Platform <santran686@gmail.com> (https://chainplatform.net/)",
+    "license": "MIT",
+    "keywords": [
+        "react",
+        "react-native",
+        "react-native-web",
+        "@chainplatform/checkbox"
+    ],
+    "homepage": "https://github.com/ChainPlatform/react-native-checkbox",
+    "bugs": "https://github.com/ChainPlatform/react-native-checkbox/issues",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ChainPlatform/react-native-checkbox.git"
+    },
+    "dependencies": {},
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "prop-types": "*"
+    }
+}
